@@ -1,5 +1,5 @@
 {
-  "name": "AwesomeProject",
+  "name": "rndemo",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -8,9 +8,6 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "appcenter": "1.13.0",
-    "appcenter-analytics": "1.13.0",
-    "appcenter-crashes": "1.13.0",
     "react": "16.8.3",
     "react-native": "0.59.2"
   },
